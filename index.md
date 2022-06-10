@@ -17,6 +17,6 @@ Figure 5 shows the interpreted bedrock topography across the program study area.
 
 Details regarding the sediment stratigraphy within the Laurentian valley and groundwater movement within the feature remain sketchy despite the valley having been known for over 100 years (Spencer, 1881; 1890).  These details are collected and incorporated into the latest interpretation as data becomes available. 
 
-(https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure3northeastcornerhighpark.webp)
+![*Figure 1*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure3northeastcornerhighpark.webp)
 
-
+_Figure 1_

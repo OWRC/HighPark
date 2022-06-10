@@ -19,15 +19,15 @@ Details regarding the sediment stratigraphy within the Laurentian valley and gro
 
 A summary of events and conditions at the site is as follows:
 
-• An initial borehole (BH1) was drilled to the top of a gravel aquifer at 37 mbgs in July 2003 by All-Terrain Drilling;
-• The borehole started flowing from 37 m depth during drilling, expelling water and sediment into the air (initial hydraulic head was on the order of 18 to 23 m above ground surface);
-• Initial flow was estimated at 300 to 500 IGPM but declined to between 90 and 120 IGPM after stabilizing;
-• Packing off the borehole within the casing resulted in the two recently capped artesian wells situated within the stormwater ponds to begin to flow again and springs emerged from the area surrounding the borehole;
-• Installation and pumping of a relief production well (PW1 drilled by G. Hart and Sons) depressurized the aquifer sufficiently to allow for the initial borehole and springs to be grouted;
-• In PW1, bedrock was encountered at a depth of 44 mbgs (45 mASL or 30 m lower than the average Lake Ontario water level);
-• Water levels in three shallow monitoring wells (OW1, OW2, OW3) show connection to the deeper aquifer;
-• Controlled flow from the relief well (PW1) to a local creek continues to depressurize the aquifer; and
-• Monitoring of groundwater levels and flow rates is ongoing.
+- An initial borehole (BH1) was drilled to the top of a gravel aquifer at 37 mbgs in July 2003 by All-Terrain Drilling;
+- The borehole started flowing from 37 m depth during drilling, expelling water and sediment into the air (initial hydraulic head was on the order of 18 to 23 m above ground surface);
+- Initial flow was estimated at 300 to 500 IGPM but declined to between 90 and 120 IGPM after stabilizing;
+- Packing off the borehole within the casing resulted in the two recently capped artesian wells situated within the stormwater ponds to begin to flow again and springs emerged from the area surrounding the borehole;
+- Installation and pumping of a relief production well (PW1 drilled by G. Hart and Sons) depressurized the aquifer sufficiently to allow for the initial borehole and springs to be grouted;
+- In PW1, bedrock was encountered at a depth of 44 mbgs (45 mASL or 30 m lower than the average Lake Ontario water level);
+- Water levels in three shallow monitoring wells (OW1, OW2, OW3) show connection to the deeper aquifer;
+- Controlled flow from the relief well (PW1) to a local creek continues to depressurize the aquifer; and
+- Monitoring of groundwater levels and flow rates is ongoing.
 
 
 ![*Figure 1*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure3northeastcornerhighpark.webp)

@@ -15,7 +15,7 @@ As part of a stormwater management project in High Park, the City of Toronto was
 
 Figure 5 shows the interpreted bedrock topography across the program study area.  It has been constructed utilizing all of the existing boreholes in the database that have progressed through the glacial sediments to intersect bedrock.  The Laurentian Channel is thought to connect Georgian Bay to Lake Ontario and may be a significant conductor of groundwater on a regional scale.  The main channel has been traced north to Nobleton, continuing northward trending west of Barrie, and up into Georgian Bay with tributaries extending as far west as the Niagara Escarpment near Caledon East.  The High Park monitoring location is shown to be situated coincident with the interpreted west branch of the Laurentian Channel in the Toronto area.  The detailed bedrock in the Toronto area is being re-interpreted based on newly drilled boreholes in the Toronto area.
 
-Details regarding the sediment stratigraphy within the Laurentian valley and groundwater movement within the feature remain sketchy despite the valley having been known for over 100 years (Spencer, 1881; 1890).  These details are collected and incorporated into the latest interpretation as data becomes available.
+Details regarding the sediment stratigraphy within the Laurentian valley and groundwater movement within the feature remain sketchy despite the valley having been known for over 100 years (Spencer, 1881; 1890).  These details are collected and incorporated into the latest interpretation as data becomes available. 
 
 (https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure3northeastcornerhighpark.webp)
 

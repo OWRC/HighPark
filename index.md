@@ -12,4 +12,6 @@ output: html_document
 # Introduction
 
 The Oak Ridges Moraine Groundwater Program (ORMGP) has been working on producing a reliable water table map for quite some time. Over the years several versions of the water table surfac
-(https://raw.githubusercontent.com/OWRC/HighPark/main/images/Figure 1 high park location.webp)
+(https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure3northeastcornerhighpark.webp)
+
+

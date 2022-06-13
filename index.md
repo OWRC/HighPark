@@ -1,5 +1,5 @@
 ---
-title: High Par Fact Sheet
+title: High Park Fact Sheet
 description: Description of the bedrock hydrogeologic setting in the High Park Area
 author: Oak Ridges Moraine Groundwater Program
 date: 2022-06-10

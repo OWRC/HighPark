@@ -44,3 +44,10 @@ A summary of events and conditions at the site is as follows:
 
 ![*Figure 6: Drill Crew*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure6drillcrew.webp)
 _Figure 6: All-Terrain drilling crew working on BH1, July 2003 (Photo by S. Holysh)_
+
+![*Figure 7: Cross Section*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure7webloorcrosssection.webp)
+_Figure 7: West-East cross section along Bloor Street)_
+
+![*Figure 8: High Park Borehole*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure8highparkbh.webp)
+_Figure 8: High Park BH1 & PW1 geologic profile showing well installations_
+

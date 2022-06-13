@@ -2,13 +2,9 @@
 title: High Park Fact Sheet
 description: Description of the bedrock hydrogeologic setting in the High Park Area
 author: Oak Ridges Moraine Groundwater Program
-date: 2022-06-10
+date: 2022-06-13
 output: html_document
 ---
-
-* TOC
-{:toc}
-
 # Introduction
 ![*Figure 1: Location of High Park*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/Figure1.png)
 _Figure 1: Location of High Park_

@@ -30,6 +30,5 @@ A summary of events and conditions at the site is as follows:
 - Monitoring of groundwater levels and flow rates is ongoing.
 
 
-![*Figure 1*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure3northeastcornerhighpark.webp)
-
-_Figure 1_
+![*Figure 1: Location of High Park*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure1highparklocation.webp)
+_Figure 1: Location of High Park_

@@ -19,8 +19,19 @@ Figure 5 shows the interpreted bedrock topography across the program study area.
 
 Details regarding the sediment stratigraphy within the Laurentian valley and groundwater movement within the feature remain sketchy despite the valley having been known for over 100 years (Spencer, 1881; 1890).  These details are collected and incorporated into the latest interpretation as data becomes available. 
 
-A summary of events and conditions at the site is as follows:
+![*Figure 2: High Park Area of Toronto*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure2highparkareaoftoronto.webp)
+_Figure 2: High Park Area of Toronto_
 
+![*Figure 3: Northeast Corner of Hight Park*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure3northeastcornerhighpark.webp)
+_Figure 3: Northeast corner of High Park_
+
+![*Figure 4: Laurentian River*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure4Laurentianriver.webp)
+_Figure 4: Interpreted Laurentian river system (Figure from Coleman, 1922)_
+
+![*Figure 5: Interpreted Bedrock*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure5bedrocktop.webp)
+_Figure 5: Interpreted bedrock topography for south central Ontario_
+
+A summary of events and conditions at the site is as follows:
 - An initial borehole (BH1) was drilled to the top of a gravel aquifer at 37 mbgs in July 2003 by All-Terrain Drilling;
 - The borehole started flowing from 37 m depth during drilling, expelling water and sediment into the air (initial hydraulic head was on the order of 18 to 23 m above ground surface);
 - Initial flow was estimated at 300 to 500 IGPM but declined to between 90 and 120 IGPM after stabilizing;
@@ -31,13 +42,5 @@ A summary of events and conditions at the site is as follows:
 - Controlled flow from the relief well (PW1) to a local creek continues to depressurize the aquifer; and
 - Monitoring of groundwater levels and flow rates is ongoing.
 
-![*Figure 2: High Park Area of Toronto*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure2highparkareaoftoronto.webp)
-
-_Figure 2: High Park Area of Toronto_
-
-![*Figure 3: Northeast Corner of Hight Park*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure3northeastcornerhighpark.webp)
-
-_Figure 2: Northeast corner of High Park_
-
-
-
+![*Figure 6: Drill Crew*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure6drillcrew.webp)
+_Figure 6: All-Terrain drilling crew working on BH1, July 2003 (Photo by S. Holysh)_

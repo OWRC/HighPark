@@ -1,4 +1,4 @@
-# watertable (GitHub page)
+# High Park (GitHub page)
 ORMGP fact sheet of Bedrock Hydrogeology at High Park
 
 site is published at https://owrc.github.io/HighPark/

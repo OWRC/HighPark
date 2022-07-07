@@ -6,7 +6,7 @@ date: 2022-06-15
 output: html_document
 ---
 # Introduction
-![*Figure 1: Location of High Park*](https://github.com/OWRC/HighPark/blob/main/images/Figure1.png)
+![*Figure 1: Location of High Park*](https://raw.githubusercontent.com/OWRC/HighPark/blob/main/images/Figure1.png)
 _Figure 1: Location of High Park_
 
 As part of a stormwater management project in High Park in 2003 , the City of Toronto was decommissioning two flowing wells that were first drilled in 1959. The flowing wells were found during construction work on the existing stormwater ponds located in the northeast corner of High Park (Figures 1, 2 and 3). Well records for the deepest well indicated that bedrock had not been encountered when the well was terminated at a depth of 38.4 m below ground surface (mbgs; 126 ft bgs). Based on this, as well as on previous investigations (e.g. Eyles, 1987; Eyles et al., 1993; Gill and Greenhouse, 1996; Lewis and Sly, 1971; Rogers et al., 1961; Sharpe, 1980; Watt, 1968; White and Karrow, 1971) it was suspected that one of the main outlets of the Laurentian River (Figure 4), a significant pre-glacial bedrock valley, was located in the vicinity of High Park. Because there are few high-quality boreholes within the City of Toronto, the ORMGP study (formerly YPDT-CAMC), sought to fill this data gap by drilling a high-quality continuously cored borehole in this valley feature.
